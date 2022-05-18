@@ -1,5 +1,5 @@
 # SWP
 
-20182235 Yoon HyungJoon (conflict from local)
+Yoon HyungJoon (20182235)
 
 KMU
