@@ -2,6 +2,7 @@ html = b"""
 <html>
     <body>
         <form action="">
+            [RPI]
             y = <input type="number" name="a"> * x^2
               + <input type="number" name="b"> * x
               + <input type="number" name="c"><br><br>
